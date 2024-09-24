@@ -1,5 +1,5 @@
 {
-  "name": "csv-serializer",
+  "name": "csv_serializer",
   "version": "0.1.2",
   "displayName": "CSVSerializer",
   "description": "CSVSerializer",
