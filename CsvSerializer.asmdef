@@ -1,0 +1,15 @@
+{
+    "name": "CsvSerializer",
+    "rootNamespace": "",
+    "references": [
+    ],
+    "includePlatforms": [
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "noEngineReferences": false
+}
