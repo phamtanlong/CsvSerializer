@@ -1,6 +1,6 @@
 {
     "name": "CsvSerializer",
-    "rootNamespace": "",
+    "rootNamespace": "CsvSerialization",
     "references": [
     ],
     "includePlatforms": [
