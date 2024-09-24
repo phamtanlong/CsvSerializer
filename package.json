@@ -1,17 +1,13 @@
 {
-  "name": "com.manakhovn.figma_to_unity_importer",
+  "name": "csv-serializer",
   "version": "0.1.2",
-  "displayName": "FigmaToUnityImporter",
-  "description": "Convert Figma Node to UnityUI and Import",
+  "displayName": "CSVSerializer",
+  "description": "CSVSerializer",
   "keywords": [
-    "figma",
-    "importer"
   ],
   "author": {
-    "name": "ManakhovN"
+    "name": "antonio-leonardo"
   },
   "dependencies": {
-    "com.unity.textmeshpro": "2.1.4",
-    "com.unity.nuget.newtonsoft-json": "3.2.1"
   }
 }
